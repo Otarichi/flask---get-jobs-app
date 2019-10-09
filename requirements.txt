@@ -2,4 +2,3 @@ flask
 flask_sqlalchemy
 bs4
 requests
-sqlite3
